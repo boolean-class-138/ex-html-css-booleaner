@@ -1,0 +1,77 @@
+header {
+    background-color: #4da0fe;
+    background-image: url('../img/pattern.png');
+    background-size: 25%;
+    height: 120px;
+}
+
+.logo {
+    height: 60px;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h3 {
+    color: #989898;
+}
+
+/* 
+    Author
+*/
+.author {
+    color: #808080;
+}
+
+.author-credit {
+    font-size: 18px;
+}
+
+.author-link {
+    color: #4da0fe;
+    text-decoration: none;
+}
+
+.photo-caption {
+    font-size: 14px;
+}
+
+/* 
+    Table
+*/
+table {
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead {
+    background-color: #1faae5;
+    color: #ffffff;
+}
+
+.table-row {
+    background-color: #b0e4f2;
+}
+
+.cell-bigger {
+    width: 50%;
+}
+
+/* 
+    Other Posts
+*/
+.box {
+    background-size: cover;
+    width: 312px;
+    height: 208px;
+    color: #ffffff;
+    font-size: 24px;
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+#graph {
+    background-image: url('../img/graph.jpg');
+}
